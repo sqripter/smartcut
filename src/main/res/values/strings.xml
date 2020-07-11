@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">smartcut</string>
+
+    <string name="baseurl_dev">http://192.168.0.105:8080/smartcut/%s</string>
+    <string name="baseurl">http://ringnews.appspot.com/smartcut/%s</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SmartCut</string>
+    <string name="nav_header_subtitle">\@</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_log">Log</string>
+
+
+    <string name="menu_register">Edit registration</string>
+
+    <string name="title_activity_register">Register</string>
+    <string name="prompt_name">Fullnames</string>
+    <string name="prompt_email">Email</string>
+
+    <string name="prompt_vericode">Enter verification code</string>
+    <string name="action_register">Register</string>
+    <string name="action_vericode">Verify code</string>
+    <string name="action_cancel">Cancel registration</string>
+
+
+</resources>
